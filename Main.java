@@ -42,7 +42,7 @@ public class Main {
 
         strOutput="You selected: ";
 
-        //switch statement -fall through  demo
+        //switch statement -fall through  demo; DO NOT replace switch statement with if-else-if
         switch (result)
         {
             case JOptionPane.YES_OPTION: strOutput += "YES";
